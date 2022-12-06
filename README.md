@@ -15,3 +15,5 @@ A good challenge consists of
 - Is targeted to beginner developers
 
 Everyone is welcome to raise a Pull Request on this repository - please share with volunteers and/or students before merging.
+
+4 of these challenges are currently set in the week coursework for Node https://github.com/CodeYourFuture/Table-of-Contents/blob/main/README.md
