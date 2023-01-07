@@ -17,6 +17,22 @@ app.get('/', (req, res) => {
   res.send(routes)
 })
 
+app.get('/pharmacies', (req, res) => {
+    res.send('pharmacies')
+})
+
+app.get('/colleges', (req, res) => {
+    res.send('pharmacies')
+})
+
+app.get('/doctors', (req, res) => {
+    res.send('pharmacies')
+})
+
+app.get('/hospitals', (req, res) => {
+    res.send('pharmacies')
+})
+
 const PORT = process.env.PORT || 3001
 
 app.listen(PORT, () => {
